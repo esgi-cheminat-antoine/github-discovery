@@ -1,1 +1,2 @@
-test de contribution sur GtHb
+test de contribution sur GitHub
+GitHub est un système de versionning permettant de collaborer de façon efficace sur un projet de développement
